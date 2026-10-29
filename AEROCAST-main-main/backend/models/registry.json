@@ -1,0 +1,14 @@
+[
+  {
+    "id": "classifier_v1",
+    "model_type": "classifier",
+    "model_name": "random_forest",
+    "trained_at": "2026-10-28T15:20:01.187261+00:00"
+  },
+  {
+    "id": "regressor_v1",
+    "model_type": "regressor",
+    "model_name": "ridge",
+    "trained_at": "2026-10-28T15:20:14.324794+00:00"
+  }
+]
