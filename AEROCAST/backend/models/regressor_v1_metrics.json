@@ -21,9 +21,9 @@
     "wx_visibility"
   ],
   "target": "DEP_DELAY (minutes, clipped at 0)",
-  "mae": 20.69,
-  "rmse": 52.1,
-  "r2": 0.0082,
+  "mae": 21.17,
+  "rmse": 52.05,
+  "r2": 0.0101,
   "test_size": 5180,
-  "trained_at": "2026-10-28T15:47:29.030304+00:00"
+  "trained_at": "2026-10-30T11:44:20.949402+00:00"
 }
